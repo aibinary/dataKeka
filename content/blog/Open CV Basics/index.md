@@ -6,3 +6,4 @@ description: OpenCV is a framework built on C++. Its a very intutive library tha
 
 Today we will dive into the following details of OpenCV.
 
+This site is automatically build using GITHUB actions and deployed to netlify.
