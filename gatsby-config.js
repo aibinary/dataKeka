@@ -3,12 +3,12 @@ module.exports = {
     title: `Data Keka`,
     author: {
       name: `Harikanth Lingutla`,
-      summary: `who lives somewhere in mountains and works remotely building useful things.`,
+      summary: `who lives somewhere in mountains and work remotely building useful things.`,
     },
     description: `A blog to share all things data.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `harikanthLingutla`,
     },
   },
   plugins: [
