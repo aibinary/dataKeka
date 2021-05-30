@@ -4,7 +4,7 @@ date: "2021-05-29T22:40:32.169Z"
 description: OpenCV is a framework built on C++. Its widely used to solve computer vision problems.
 ---
 
-Images or pictures are represented by pixels on the screen. Each pixel can have a value varying from(0-255) across 3 channels(RGB).
+Images are represented by pixels on the screen. Each pixel can have a value varying from(0-255) across 3 channels(RGB).
 
 without further ado, lets use OpenCV with python and learn to do interesting things with images.
 
