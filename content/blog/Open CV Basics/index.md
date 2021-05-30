@@ -8,7 +8,7 @@ Images or pictures are represented by pixels on the screen. Each pixel can have 
 
 without further ado, lets use OpenCV with python and learn to do interesting things with images.
 
-I am using the widely used IDE for this tutorial i.e Jupyter Notebook.
+I am using Jupyter Notebook for this tutorial.
 
 First we need to import the required libraries.
 
@@ -31,7 +31,7 @@ imshow function of matplotlib is used to display the image in our IDE or editor.
 
 ![dog image](./dog1.png)
 
-The channels are flipped when we read the image using OpenCV. Our image is read in BGR order. Lets fix it.
+The channels are flipped when we read the image using OpenCV. Image is read in BGR order. Lets fix it.
 
 ```python
 fix_image = cv2.cvtColor(img,cv2,COLOR_BGR2RBG)
@@ -63,3 +63,5 @@ plt.imshow(new_img)
 ![Resized image](./dog_resize.png)
 
 We used resize method from cv2 to change the width & height of the image.
+
+**Code & topics are from Jose, Portilla Udemy course on CV.
